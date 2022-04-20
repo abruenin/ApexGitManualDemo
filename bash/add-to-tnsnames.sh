@@ -1,1 +1,1 @@
-cat add-tnsnames.ora >> $TNS_ADMIN/listener.ora
+cat add-tnsnames.ora >> $TNS_ADMIN/tnsnames.ora
